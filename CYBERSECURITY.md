@@ -1,4 +1,4 @@
-CYBERSECURITY 
+
 
 # GDG Cybersecurity Challenge – 3 Level Task
 This repository documents my approach to solving a three-part cybersecurity challenge given for the GDG interview task. The challenge tested skills in file analysis, steganography, encoding/decoding, and automation mindset.
