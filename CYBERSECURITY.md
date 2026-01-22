@@ -11,6 +11,8 @@ Inspected contents carefully instead of assuming visible text was complete
 
 Extracted readable information that indicated hidden or embedded data
 
+(Digital forensics)
+
 
 #Method of Approach 
 
@@ -34,6 +36,16 @@ For Flag 1
 
 FLAG 2 
 
+Analyzed the image beyond visual appearance
+
+Checked for hidden information embedded in the file structure
+
+Considered possibilities such as metadata, appended data, or compressed content
+
+Extracted the concealed message through systematic analysis
+
+(Steganography) 
+
 Tools used:
 
 1) Zsteg 
@@ -41,6 +53,17 @@ Tools used:
 ![][image4]
 
 FLAG 3
+Recognized that manually scanning thousands of QR codes was inefficient
+
+Identified the meaningful QR code by filtering irrelevant data
+
+Detected that the extracted text was Base64-encoded
+
+Decoded the content to retrieve the final message
+
+(Automation mindset,Pattern recognition)
+
+
 
 Tools Used:
 
