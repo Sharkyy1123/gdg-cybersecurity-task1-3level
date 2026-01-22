@@ -4,7 +4,15 @@ TASK-1: 3 Levels
 
 Final Flag= gdg{sw1ss\_10\_armykn1f3\_gg1ol}
 
-Method of Approach 
+
+Treated the .txt file as a data container, not just plain text
+
+Inspected contents carefully instead of assuming visible text was complete
+
+Extracted readable information that indicated hidden or embedded data
+
+
+#Method of Approach 
 
 For Part 1 of the task i had to use the following tools
 
